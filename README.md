@@ -18,7 +18,7 @@ Our research aim to explore some interesting features and insight that we can ex
 
 - How are genres distributed in general?
 
-- How do labels work and distribute throughout popularity? Our hypothesis of a bell shaped curve is respected?
+- How do labels work and distribute throughout popularity?
 
 ## The project output.
 
