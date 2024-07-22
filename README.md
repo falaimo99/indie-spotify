@@ -25,6 +25,6 @@ Our research aim to explore some interesting features and insight that we can ex
 The project output consists of:
 
 - A [colab](https://colab.research.google.com/drive/1_2-t-kKZHPj0CnrifYTaqPgMUw517yxM#scrollTo=7TEgiv30T2ui) notebook.
-- A series of [slides](https://github.com/falaimo99/indie-spotify/blob/main/Indie-Spotify.pptx](https://github.com/falaimo99/indie-spotify/blob/main/Indie-Spotify.pdf).
+- A series of [slides](https://github.com/falaimo99/indie-spotify/blob/main/Indie-Spotify.pdf).
 ---
 This project was devised by Francesco Alaimo and Nikolai Gorbachev
